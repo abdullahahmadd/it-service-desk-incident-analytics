@@ -17,7 +17,6 @@
 - [Tools & Technologies](#tools--technologies)
 - [Methodology](#methodology)
 - [Key Performance Indicators](#key-performance-indicators)
-- [Results](#results)
 - [Key Findings](#key-findings)
 - [Business Recommendations](#business-recommendations)
 - [Repository Structure](#repository-structure)
@@ -178,21 +177,6 @@ Documented the complete methodology, dataset scope, analysis, KPIs, findings, an
 | Feedback | Recommendation Rate | 75.1% |
 | Feedback | Positive Feedback Indicators | 1,912 |
 | Feedback | Negative Feedback Indicators | 487 |
-
----
-
-## Results
-
-All screenshots in [`Results/`](./Results); full dashboard in [`03_Dashboard/`](./03_Dashboard).
-
-| # | Result | Screenshot |
-|---|--------|------------|
-| 1 | Ticket performance - volume, status, category, priority, response/resolution time | ![Ticket Performance](Results/ticket_performance.png) |
-| 2 | SLA performance - compliance, breaches, target bands, strictness | ![SLA Performance](Results/sla_performance.png) |
-| 3 | Asset analysis - inventory, warranty risk, replacement-cost exposure | ![Asset Analysis](Results/asset_analysis.png) |
-| 4 | Incident analysis - type, root cause, downtime, affected users | ![Incident Analysis](Results/incident_analysis.png) |
-| 5 | Customer experience - ratings, recommendation rate, feedback distribution | ![Customer Experience](Results/customer_experience.png) |
-| 6 | Executive dashboard - consolidated KPI cards and cross-domain charts | ![Executive Dashboard](Results/executive_dashboard.png) |
 
 ---
 
