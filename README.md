@@ -1,7 +1,5 @@
 # IT Service Desk & Incident Analytics
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&repo=it-service-desk-incident-analytics&label=Visitors&color=0e75b6&style=flat)
-
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Analytics-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![PivotTables](https://img.shields.io/badge/Excel-PivotTables-217346?style=flat)
 ![Dashboard](https://img.shields.io/badge/Analytics-Executive%20Dashboard-5B9BD5?style=flat)
